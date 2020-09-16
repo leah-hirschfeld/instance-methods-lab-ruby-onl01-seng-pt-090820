@@ -1,6 +1,8 @@
 class Person 
-  def 
-end
+  def talk
+    puts "Hello World!"
+  end
+  
 def 
 end
 end
